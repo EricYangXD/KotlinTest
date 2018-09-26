@@ -1,0 +1,7 @@
+﻿<resources>
+    <string name="app_name">sunflower-demo-android</string>
+
+    <string name="toolbar_name">欢乐中国年</string>
+    <string name="book_name">Android Studio开发实战\n从零基础到App上线</string>
+    <string name="textView_7_1">7.1 视图排列</string>
+</resources>
